@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    border: 0;
+    height: 100vh;
+    font-family: Roboto;
+    background-image: linear-gradient(to bottom,white 20%,rgb(255, 99, 71,0.5));
+}
+
+h1{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h2{
+    font-weight: 100;
+    margin: 0;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    margin-top: 0;
+}
+
+.lie:hover{
+    color: red;
+}
+
+.truth:hover{
+    color: green;
+}
+
+#content{
+    padding: 5% 5% 0px 5%;
+}
+
+#twotruthonelie{
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+
+
